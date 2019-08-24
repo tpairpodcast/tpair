@@ -7,7 +7,7 @@
 1. Почему микросервисы?
 1. [332](https://tpair.org/podcast/tp-332/ "tpair.org") - Аутсорс или кровавый энтерпрайз?
 1. [DevObs:](https://habr.com/ru/company/funcorp/blog/463505/ "habr.com")
-- CI;
+    - CI;
     - CDL,;
     - CDP.
 1. [Тирания позитивного мышления угрожает вашему здоровью и счастью](https://habr.com/ru/post/464265/ "habr.com")
