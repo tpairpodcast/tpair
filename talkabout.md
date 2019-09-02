@@ -10,7 +10,7 @@
     - CI;
     - CDL,;
     - CDP.
-1. [Тирания позитивного мышления угрожает вашему здоровью и счастью](https://habr.com/ru/post/464265/ "habr.com")
+1. ~~[Тирания позитивного мышления угрожает вашему здоровью и счастью](https://habr.com/ru/post/464265/ "habr.com")~~
 1. [Пять пугающих трендов современной разработки](https://habr.com/ru/company/oleg-bunin/blog/459446/ "habr.com")
 1. Как он [это](https://www.youtube.com/watch?v=HA2rEyG2UfE&feature=youtu.be) [делает](https://habr.com/ru/post/465643)?
 ---
