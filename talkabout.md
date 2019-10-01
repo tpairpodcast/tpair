@@ -17,10 +17,10 @@
 1. [Пять пугающих трендов современной разработки](https://habr.com/ru/company/oleg-bunin/blog/459446/ "habr.com")
 1. ~~[338](https://tpair.org/podcast/tp-338/) Как он [это](https://www.youtube.com/watch?v=HA2rEyG2UfE&feature=youtu.be) [делает](https://habr.com/ru/post/465643)?~~
 1. Проблема, которую вы решаете, [важнее](https://habr.com/ru/post/465873/), чем код, который вы пишете. Программисты, кажется, забыли реальную цель программного обеспечения — это решать реальные проблемы.
-1. 5 вещей, которые чаще всего не понимают новички в JavaScript - https://habr.com/ru/company/otus/blog/466873/
-1. А как на самом деле? Мифы и заблуждения о программистах / Хабр - https://habr.com/ru/article/467367/
-1. Не учите паттерны, учите концепции / Хабр - https://habr.com/ru/post/468885/
-1. Типичные заблуждения об ООП / Блог компании Издательский дом «Питер» / Хабр - https://habr.com/ru/company/piter/blog/469135/
+1. 5 вещей, которые чаще всего не понимают [новички](https://habr.com/ru/company/otus/blog/466873/) в JavaScript
+1. А как на самом деле? Мифы и заблуждения о [программистах](https://habr.com/ru/article/467367/)
+1. Не учите паттерны, [учите концепции](https://habr.com/ru/post/468885/)
+1. Типичные [заблуждения](https://habr.com/ru/company/piter/blog/469135/) об ООП
 
 ---
 
