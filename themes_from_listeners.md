@@ -6,5 +6,6 @@
 1. Парламент Германии принял закон, по которому Apple должна открыть доступ к NFC в iPhone для других платёжных систем - https://vc.ru/amp/92903
 1. Уязвимость TPM-Fail, позволяющая восстановить ключи, хранимые в TPM-модулях - https://opennet.ru/51862/
 1. Microsoft решила защитить Windows 10 на уровне компьютеров Apple - https://www.ixbt.com/news/2019/10/22/microsoft-windows-10-apple.html
+1. Google работает над использованием обычного ядра Linux в Android - https://opennet.ru/51905/
 
 ---
