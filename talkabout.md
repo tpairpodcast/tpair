@@ -14,7 +14,7 @@
     - CDL,;
     - CDP.
 1. ~~[337](https://tpair.org/podcast/tp-337/) [Тирания позитивного мышления угрожает вашему здоровью и счастью](https://habr.com/ru/post/464265/ "habr.com")~~
-1. 334 ~~[Пять пугающих трендов современной разработки](https://habr.com/ru/company/oleg-bunin/blog/459446/ "habr.com")~~
+1. [343](https://tpair.org/podcast/tp-343/) ~~[Пять пугающих трендов современной разработки](https://habr.com/ru/company/oleg-bunin/blog/459446/ "habr.com")~~
 1. ~~[338](https://tpair.org/podcast/tp-338/) Как он [это](https://www.youtube.com/watch?v=HA2rEyG2UfE&feature=youtu.be) [делает](https://habr.com/ru/post/465643)?~~
 1. Проблема, которую вы решаете, [важнее](https://habr.com/ru/post/465873/), чем код, который вы пишете. Программисты, кажется, забыли реальную цель программного обеспечения — это решать реальные проблемы.
 1. 5 вещей, которые чаще всего не понимают [новички](https://habr.com/ru/company/otus/blog/466873/) в JavaScript
