@@ -23,6 +23,7 @@
 1. Типичные [заблуждения](https://habr.com/ru/company/piter/blog/469135/) об ООП
 1. Как проводить Code Review по версии Google / Хабр - https://habr.com/ru/post/473308/
 1. **НЕ СТАВЬТЕ BREAK В FOR!!!**
+1. Мой [ответ](https://habr.com/ru/company/ruvds/blog/486684/) тем, кто полагает, что значение *TDD* преувеличено
 
 ---
 
