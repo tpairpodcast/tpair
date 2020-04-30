@@ -5,14 +5,14 @@
 1. ~~[332](https://tpair.org/podcast/tp-332/ "tpair.org") О суровом интерпрайзе~~
 1. О докере и кубернатисе
 1. О облаках
-1. О составлении правильного резюме
-1. ~~О "я не буду пользоваться этой технологией"
+1. ~~[360](https://tpair.org/podcast/tp-360/) О составлении правильного резюме и Собеседованиях~~
+1. ~~О "я не буду пользоваться этой технологией" ~~
 1. Почему микросервисы?
 1. ~~[332](https://tpair.org/podcast/tp-332/ "tpair.org") - Аутсорс или кровавый энтерпрайз?~~
-1. [DevObs](https://habr.com/ru/company/funcorp/blog/463505/ "habr.com") и как это готовить:
+1. ~~[343](https://tpair.org/podcast/tp-343/) [DevObs](https://habr.com/ru/company/funcorp/blog/463505/ "habr.com") и как это готовить:
     - CI;
     - CDL,;
-    - CDP.
+    - CDP.~~
 1. ~~[337](https://tpair.org/podcast/tp-337/) [Тирания позитивного мышления угрожает вашему здоровью и счастью](https://habr.com/ru/post/464265/ "habr.com")~~
 1. [343](https://tpair.org/podcast/tp-343/) ~~[Пять пугающих трендов современной разработки](https://habr.com/ru/company/oleg-bunin/blog/459446/ "habr.com")~~
 1. ~~[338](https://tpair.org/podcast/tp-338/) Как он [это](https://www.youtube.com/watch?v=HA2rEyG2UfE&feature=youtu.be) [делает](https://habr.com/ru/post/465643)?~~
@@ -22,9 +22,9 @@
 1. Не учите паттерны, [учите концепции](https://habr.com/ru/post/468885/)
 1. Типичные [заблуждения](https://habr.com/ru/company/piter/blog/469135/) об ООП
 1. Как проводить Code Review по версии Google / Хабр - https://habr.com/ru/post/473308/
-1. ~~**НЕ СТАВЬТЕ BREAK В FOR!!!**
+1. ~~[354](https://tpair.org/podcast/tp-354/) **НЕ СТАВЬТЕ BREAK В FOR!!!**~~
 1. Мой [ответ](https://habr.com/ru/company/ruvds/blog/486684/) тем, кто полагает, что значение *TDD* преувеличено
-1. Собеседования
+1. ~~[357](https://tpair.org/podcast/tp-357/) О вхождении в новый коллектив.~~
 
 ---
 
@@ -37,3 +37,4 @@
 ---
 
 # Deprecated
+
