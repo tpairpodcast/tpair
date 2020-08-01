@@ -11,3 +11,7 @@
 # Внимание!
 
 Нас можно [слушать](tpair.org "tpair.org") без знания PHP
+
+#PS
+
+[ВСё идёт по плану](Everything_goes_according_to_plan.md)
