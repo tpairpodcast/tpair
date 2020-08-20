@@ -10,7 +10,7 @@
 
 # Внимание!
 
-Нас можно [слушать](tpair.org "tpair.org") без знания PHP
+Нас можно [слушать](https://tpair.org "tpair.org") без знания PHP
 
 # PS
 
